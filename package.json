@@ -1,7 +1,7 @@
 {
-  "name": "R-Txzy",
+  "name": "©KATEBOT",
   "version": "2.2.0",
-  "description": "WhatsApp Bot",
+  "description": "WhatsApp Bot By Mursid",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
