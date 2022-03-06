@@ -8,7 +8,7 @@ const defaultMenu = {
   before: `
 ┌─〔 Kate Bot 〕
 ├ Hai, *%name!*
-├ YT Owner : https://youtube.com/c/KATEARRAWAWIE
+├ YT : http://bit.ly/YOUTUBEKATE
 ├ Memory Used : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 └────
 %readmore`.trimStart(),
